@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Значение переменной b c типом byte равно " + b);
         short c = 30000;
         System.out.println("Значение переменной c c типом short равно " + c);
-        long d = 90000000000L;
+        long d = 900000000000L;
         System.out.println("Значение переменной d c типом long равно " + d);
         float f = -3.4f;
         System.out.println("Значение переменной f c типом float равно " + f);
